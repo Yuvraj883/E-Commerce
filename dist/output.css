@@ -733,6 +733,10 @@ video {
   background-color: rgb(34 197 94 / var(--tw-bg-opacity));
 }
 
+.bg-current {
+  background-color: currentColor;
+}
+
 .p-4 {
   padding: 1rem;
 }
